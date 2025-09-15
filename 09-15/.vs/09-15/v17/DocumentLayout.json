@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cju\\Documents\\GitHub\\2022010484-yejunshin\\09-15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA550D7E-C21D-472F-98AC-DD47DDD37383}|09-15\\09-15.vcxproj|C:\\Users\\Cju\\Documents\\GitHub\\2022010484-yejunshin\\09-15\\09-15\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA550D7E-C21D-472F-98AC-DD47DDD37383}|09-15\\09-15.vcxproj|solutionrelative:09-15\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Cju\\Documents\\GitHub\\2022010484-yejunshin\\09-15\\09-15\\main.cpp",
+              "RelativeDocumentMoniker": "09-15\\main.cpp",
+              "ToolTip": "C:\\Users\\Cju\\Documents\\GitHub\\2022010484-yejunshin\\09-15\\09-15\\main.cpp*",
+              "RelativeToolTip": "09-15\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T06:59:40.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
