@@ -17,7 +17,7 @@ int main(void)
 	// scanf_s("%c%s", &chTemp, (unsigned int)sizeof(chTemp), chString, (unsigned int)sizeof(chString));
 	int nResScanf = scanf("%c%s", &chTemp, chString);
 
-	printf("Output\n");
+	printf("Output\n", nResScanf);
 	// printf("(Age:%d)(Height:.2f)(Weight:%.1lf)\n", nAge, fHeight, dWeight);
 	printf("(Alphabet:%c)(Word:%s)\n", chTemp, chString);
 
