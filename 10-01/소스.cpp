@@ -26,7 +26,7 @@ int main(void)
 	printf("이름 : %s\n", name);
 	printf("학번 : %d\n", sid);
 	printf("키 : %.2f cm (%.2f m)\n", height_m * 100, height_m);
-	printf("몸무게 : %.lf kg\n", bmi);
+	printf("몸무게 : %f kg\n", weight);
 
 	// 4-2: 결과출력(BMI)
 	printf("\n[결과]\n");
