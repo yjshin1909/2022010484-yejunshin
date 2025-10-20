@@ -13,21 +13,24 @@ int main(void)
 	double bmi;
 
 	// 2: scanf 또는 scanf_s로 위 정보를 한줄로 입력받기
-	printf("이름 학번 키(cm 또는 m) 몸무게(kg)를 입력하세요\n");
-	printf("신예준 2022010484 170 74\n\n");
-	printf("입력: ");
+	printf("이름 학번 키(cm 또는 m) 몸무게(kg)를 입력하세요: ");
 
-	scanf("%49s %d %1f %1f", name, &sid, &height, &weight);
+	scanf("%49s %d %lf %lf", name, &sid, &height, &weight);
 
 	// 3: 간단한 BMI 계산(BMI = 키 * 몸무게)
 	height_m = (height > 3.0) ? height / 100.0 : height;
 	bmi = weight / (height_m * height_m);
 
 	// 4-1: 결과출력(이름, 학번, 키, 몸무게)
-	printf("\n[입력된 정보]wn");
+	printf("\n[입력된 정보]\n");
 	printf("이름 : %s\n", name);
 	printf("학번 : %d\n", sid);
-	printf("키 : %.2f cm (%.2f m)\n", height_)
+	printf("키 : %.2f cm (%.2f m)\n", height_m * 100, height_m);
+	printf("몸무게 : %f kg\n", weight);
+
 	// 4-2: 결과출력(BMI)
+	printf("\n[결과]\n");
+	printf("BMI 값 : %.2f\n", bmi);
+
 	return 0;
 }
