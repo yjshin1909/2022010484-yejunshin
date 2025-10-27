@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\191p 확인문제 3번\소스.cpp(18,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  191p 확인문제 3번.vcxproj -> C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\191p 확인문제 3번\x64\Debug\191p 확인문제 3번.exe
