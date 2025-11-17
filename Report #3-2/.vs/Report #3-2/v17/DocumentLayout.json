@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyPC\\OneDrive\\\uBB38\uC11C\\github\\2022010484-yejunshin\\Report #3-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70C2D03-64E8-4CE1-B2A5-768CA563F15D}|Report #3-2\\Report #3-2.vcxproj|C:\\Users\\MyPC\\OneDrive\\\uBB38\uC11C\\github\\2022010484-yejunshin\\Report #3-2\\Report #3-2\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C70C2D03-64E8-4CE1-B2A5-768CA563F15D}|Report #3-2\\Report #3-2.vcxproj|solutionrelative:Report #3-2\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\MyPC\\OneDrive\\\uBB38\uC11C\\github\\2022010484-yejunshin\\Report #3-2\\Report #3-2\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "Report #3-2\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\MyPC\\OneDrive\\\uBB38\uC11C\\github\\2022010484-yejunshin\\Report #3-2\\Report #3-2\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "Report #3-2\\\uC18C\uC2A4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T08:30:02.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
