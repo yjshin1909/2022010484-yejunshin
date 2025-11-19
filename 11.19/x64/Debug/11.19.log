@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\11.19\소스.cpp(18,8): warning C4475: 'scanf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\11.19\소스.cpp(22,8): warning C4475: 'scanf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\11.19\소스.cpp(27,9): warning C4475: 'printf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\11.19\소스.cpp(28,9): warning C4475: 'printf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\11.19\소스.cpp(29,9): warning C4475: 'printf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+  11.19.vcxproj -> C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\11.19\x64\Debug\11.19.exe
