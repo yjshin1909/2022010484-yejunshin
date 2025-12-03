@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\12.3 실습\소스.cpp(24,8): warning C4101: 'pos' :참조되지 않은 지역 변수입니다.
+C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\12.3 실습\소스.cpp(25,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  12.3 실습.vcxproj -> C:\Users\ansys07\Documents\GitHub\2022010484-yejunshin\12.3 실습\x64\Debug\12.3 실습.exe
